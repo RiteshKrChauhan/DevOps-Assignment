@@ -55,7 +55,7 @@ Jenkins UI: [http://localhost:8080](http://localhost:8080). The `Delivery-Monito
 - **HighAverageDeliveryTime:** Fires when `(average_delivery_time_sum / average_delivery_time_count) > 30` remains true for 15 seconds.
 
 ## Screenshots
-Place these image files in the `images` directory. The filenames below are numbered as requested.
+The following screenshots document the important execution steps and successful outcomes.
 
 1. **Python metrics application running** — ![Python metrics application](images/1.png)
 2. **Metrics endpoint output** — ![Metrics endpoint](images/2.png)
