@@ -45,7 +45,7 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 After unlocking Jenkins, the suggested plugins were installed, an administrator account was created, and the setup wizard was completed.
 
 ## Screenshots
-Place the four screenshots in the same directory as this README, using the filenames below.
+The following screenshots document the important execution steps and successful outcomes.
 
 ### 1. Jenkins Container Running
 ![Screenshot 1 - Jenkins container running](images/1.png)
